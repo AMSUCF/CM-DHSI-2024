@@ -4,9 +4,11 @@ Welcome to my portfolio! Here you'll find a selection of my projects showcasing 
 
 ## Projects
 
-- [Grids & Gestures](#)
-- [Twine](#)
-- [Bitsy](#)
-- [Taroko Gorge](#)
-- [P5](#)
-- [Tracery](#)
+- Grids & Gestures
+![Apartment](apartment.jpg)
+- [Physical Hypertext](#)
+- [Twine](DHSIDemo.html)
+- [Bitsy](bitsydhsi.html)
+- [Taroko Gorge](taroko-gorge.html)
+- [P5](escape/index.html)
+- [Tracery](tracery.html)
