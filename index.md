@@ -1,5 +1,7 @@
 # DHSI 2024 Cohort
 
+![Owl generated with Firefly](owl.jpg)
+
 - [jgsmith](https://jgsmith.GitHub.com/CM-DHSI-2024/)
 - [lincoln7711](https://lincoln7711.github.io/DHSI_CM_Showcase/)
 
