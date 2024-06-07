@@ -11,6 +11,7 @@
 - [jbreitenbucher](https://jbreitenbucher.github.io/CM-DHSI-2024-JB/)
 - [kaylendwyer](https://kaylendwyer.github.io/DHSI-CM-2024/)
 - [leannej](https://leannej.github.io/dhsi2024/)
+- [amysheeran](https://amysheeran.github.io/DHSI-2024/)
 
 ## Our Journey
 
