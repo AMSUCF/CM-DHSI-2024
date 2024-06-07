@@ -8,6 +8,7 @@
 - [winnieepm](https://winnieepm.github.io/dhsi24/)
 - [rjtucker40](https://rjtucker40.github.io/DHSI-RT-2024/)
 - [hchawk](hchawk.github.io/DHSI-JUNE2024/)
+- [jbreitenbucher](https://jbreitenbucher.github.io/CM-DHSI-2024-JB/)
 
 ## Our Journey
 
