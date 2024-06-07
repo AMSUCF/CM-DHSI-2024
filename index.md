@@ -9,6 +9,7 @@
 - [rjtucker40](https://rjtucker40.github.io/DHSI-RT-2024/)
 - [hchawk](hchawk.github.io/DHSI-JUNE2024/)
 - [jbreitenbucher](https://jbreitenbucher.github.io/CM-DHSI-2024-JB/)
+- [kaylendwyer](https://kaylendwyer.github.io/DHSI-CM-2024/)
 
 ## Our Journey
 
