@@ -6,6 +6,8 @@
 - [lincoln7711](https://lincoln7711.github.io/DHSI_CM_Showcase/)
 - [skwabrynmawr](https://skwabrynmawr.github.io/SUEY/)
 - [winnieepm](https://winnieepm.github.io/dhsi24/)
+- [rjtucker40](https://rjtucker40.github.io/DHSI-RT-2024/)
+- [hchawk](hchawk.github.io/DHSI-JUNE2024/)
 
 ## Our Journey
 
